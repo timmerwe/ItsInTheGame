@@ -4,5 +4,11 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Tilemap.unity
+    guid: 978662cc4ebffd74783c85e50d13c605
+  - enabled: 1
+    path: Assets/Tilemap2.unity
+    guid: 9d52df46e4676704987649cdc25f3b82
   m_configObjects: {}
