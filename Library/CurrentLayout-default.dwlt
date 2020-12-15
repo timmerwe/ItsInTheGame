@@ -41,7 +41,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 1045
     y: 0
-    width: 583
+    width: 599
     height: 947
   m_MinSize: {x: 242, y: 221}
   m_MaxSize: {x: 4002, y: 4021}
@@ -72,8 +72,8 @@ MonoBehaviour:
     y: 30
     width: 1920
     height: 947
-  m_MinSize: {x: 921, y: 492}
-  m_MaxSize: {x: 18004, y: 14042}
+  m_MinSize: {x: 920, y: 492}
+  m_MaxSize: {x: 18003, y: 14042}
   vertical: 0
   controlID: 59
 --- !u!114 &4
@@ -91,12 +91,12 @@ MonoBehaviour:
   m_Children: []
   m_Position:
     serializedVersion: 2
-    x: 1628
+    x: 1644
     y: 0
-    width: 292
+    width: 276
     height: 947
-  m_MinSize: {x: 276, y: 71}
-  m_MaxSize: {x: 4001, y: 4021}
+  m_MinSize: {x: 275, y: 50}
+  m_MaxSize: {x: 4000, y: 4000}
   m_ActualView: {fileID: 16}
   m_Panes:
   - {fileID: 16}
@@ -322,7 +322,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 1045
     y: 73
-    width: 581
+    width: 597
     height: 926
   m_ViewDataDictionary: {fileID: 0}
   m_PreviewResizer:
@@ -396,20 +396,20 @@ MonoBehaviour:
     m_SkipHidden: 0
     m_SearchArea: 1
     m_Folders:
-    - Assets/RF Castle/Sliced
+    - Assets/RF Castle/Animated
   m_ViewMode: 1
   m_StartGridSize: 64
   m_LastFolders:
-  - Assets/RF Castle/Sliced
+  - Assets/RF Castle/Animated
   m_LastFoldersGridSize: -1
   m_LastProjectPath: C:\Users\Jordi\Desktop\Saxion\Itsinthegame
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
     scrollPos: {x: 0, y: 0}
-    m_SelectedIDs: 844d0000
-    m_LastClickedID: 19844
-    m_ExpandedIDs: 00000000804d0000824d0000864d0000944d0000
+    m_SelectedIDs: b24d0000
+    m_LastClickedID: 19890
+    m_ExpandedIDs: 00000000984d00009a4d00009c4d00009e4d0000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -437,7 +437,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: 00000000804d0000824d0000844d0000864d0000
+    m_ExpandedIDs: 00000000984d00009a4d00009c4d00009e4d0000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -464,7 +464,7 @@ MonoBehaviour:
   m_ListAreaState:
     m_SelectedInstanceIDs: 
     m_LastClickedInstanceID: 0
-    m_HadKeyboardFocusLastEvent: 0
+    m_HadKeyboardFocusLastEvent: 1
     m_ExpandedInstanceIDs: c62300003a4b0000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
@@ -514,9 +514,9 @@ MonoBehaviour:
     m_Tooltip: 
   m_Pos:
     serializedVersion: 2
-    x: 1628
+    x: 1644
     y: 73
-    width: 291
+    width: 275
     height: 926
   m_ViewDataDictionary: {fileID: 0}
   m_OpenAddComponentMenu: 0
@@ -560,9 +560,9 @@ MonoBehaviour:
   m_SceneHierarchy:
     m_TreeViewState:
       scrollPos: {x: 0, y: 0}
-      m_SelectedIDs: 9c4d0000
-      m_LastClickedID: 0
-      m_ExpandedIDs: 54faffff66fbffff
+      m_SelectedIDs: e8540000
+      m_LastClickedID: 21736
+      m_ExpandedIDs: 3eb0ffff8cb2ffff6eb8ffffdcb9ffff3abaffff54baffff7abafffffeccffff2ccdffff12e0ffff34e0fffff4e2ffff24e3ffff3afaffff82faffff66fbffffbe530000f4530000ca540000
       m_RenameOverlay:
         m_UserAcceptedRename: 0
         m_Name: 
@@ -622,9 +622,9 @@ MonoBehaviour:
   m_PlayAudio: 0
   m_AudioPlay: 0
   m_Position:
-    m_Target: {x: 5.690783, y: 25.888832, z: -18.93205}
+    m_Target: {x: 6.328449, y: 3.12302, z: -277.22852}
     speed: 2
-    m_Value: {x: 5.448223, y: 25.627022, z: -18.810385}
+    m_Value: {x: 6.328449, y: 3.12302, z: -277.22852}
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
@@ -674,9 +674,9 @@ MonoBehaviour:
     speed: 2
     m_Value: {x: 0, y: 0, z: 0, w: 1}
   m_Size:
-    m_Target: 28.253298
+    m_Target: 16.056187
     speed: 2
-    m_Value: 27.036648
+    m_Value: 15.364773
   m_Ortho:
     m_Target: 1
     speed: 2
@@ -752,8 +752,8 @@ MonoBehaviour:
     vZoomLockedByDefault: 0
     m_HBaseRangeMin: -384.5
     m_HBaseRangeMax: 384.5
-    m_VBaseRangeMin: -327.5
-    m_VBaseRangeMax: 327.5
+    m_VBaseRangeMin: -317
+    m_VBaseRangeMax: 317
     m_HAllowExceedBaseRangeMin: 1
     m_HAllowExceedBaseRangeMax: 1
     m_VAllowExceedBaseRangeMin: 1
@@ -770,11 +770,11 @@ MonoBehaviour:
     m_DrawArea:
       serializedVersion: 2
       x: 0
-      y: 0
+      y: 21
       width: 769
-      height: 655
+      height: 634
     m_Scale: {x: 1, y: 1}
-    m_Translation: {x: 384.5, y: 327.5}
+    m_Translation: {x: 384.5, y: 317}
     m_MarginLeft: 0
     m_MarginRight: 0
     m_MarginTop: 0
@@ -782,9 +782,9 @@ MonoBehaviour:
     m_LastShownAreaInsideMargins:
       serializedVersion: 2
       x: -384.5
-      y: -327.5
+      y: -317
       width: 769
-      height: 655
+      height: 634
     m_MinimalGUI: 1
   m_defaultScale: 1
   m_LastWindowPixelSize: {x: 769, y: 655}
