@@ -495,7 +495,7 @@ MonoBehaviour:
   m_ListAreaState:
     m_SelectedInstanceIDs: 
     m_LastClickedInstanceID: 0
-    m_HadKeyboardFocusLastEvent: 1
+    m_HadKeyboardFocusLastEvent: 0
     m_ExpandedInstanceIDs: c6230000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
@@ -591,6 +591,7 @@ MonoBehaviour:
   m_SceneHierarchy:
     m_TreeViewState:
       scrollPos: {x: 0, y: 0}
+<<<<<<< Updated upstream
 <<<<<<< HEAD
       m_SelectedIDs: 
       m_LastClickedID: 0
@@ -600,6 +601,11 @@ MonoBehaviour:
       m_LastClickedID: 14748
       m_ExpandedIDs: 30fbffff9c3900007a3a0000
 >>>>>>> main
+=======
+      m_SelectedIDs: 
+      m_LastClickedID: 0
+      m_ExpandedIDs: 66fbffff
+>>>>>>> Stashed changes
       m_RenameOverlay:
         m_UserAcceptedRename: 0
         m_Name: 
@@ -807,9 +813,14 @@ MonoBehaviour:
 =======
     m_HBaseRangeMin: -575
     m_HBaseRangeMax: 575
+<<<<<<< Updated upstream
     m_VBaseRangeMin: -265.5
     m_VBaseRangeMax: 265.5
 >>>>>>> main
+=======
+    m_VBaseRangeMin: -276
+    m_VBaseRangeMax: 276
+>>>>>>> Stashed changes
     m_HAllowExceedBaseRangeMin: 1
     m_HAllowExceedBaseRangeMax: 1
     m_VAllowExceedBaseRangeMin: 1
@@ -826,6 +837,7 @@ MonoBehaviour:
     m_DrawArea:
       serializedVersion: 2
       x: 0
+<<<<<<< Updated upstream
 <<<<<<< HEAD
       y: 0
       width: 759
@@ -834,11 +846,18 @@ MonoBehaviour:
     m_Translation: {x: 379.5, y: 274.5}
 =======
       y: 21
+=======
+      y: 0
+>>>>>>> Stashed changes
       width: 1150
-      height: 531
+      height: 552
     m_Scale: {x: 1, y: 1}
+<<<<<<< Updated upstream
     m_Translation: {x: 575, y: 265.5}
 >>>>>>> main
+=======
+    m_Translation: {x: 575, y: 276}
+>>>>>>> Stashed changes
     m_MarginLeft: 0
     m_MarginRight: 0
     m_MarginTop: 0
@@ -852,10 +871,14 @@ MonoBehaviour:
       height: 549
 =======
       x: -575
-      y: -265.5
+      y: -276
       width: 1150
+<<<<<<< Updated upstream
       height: 531
 >>>>>>> main
+=======
+      height: 552
+>>>>>>> Stashed changes
     m_MinimalGUI: 1
   m_defaultScale: 1
   m_LastWindowPixelSize: {x: 1150, y: 552}
