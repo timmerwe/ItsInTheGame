@@ -17,9 +17,9 @@ public class health : MonoBehaviour{
     
     void Update()
     {
-        if(playercurrenthealth < 0)
+        if(playercurrenthealth <= 0)
         {
-            SceneManager.LoadScene("tilemap");
+            gameObject.SetActive(false);
         }
     }
 
