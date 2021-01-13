@@ -41277,6 +41277,11 @@ PrefabInstance:
       propertyPath: m_Controller
       value: 
       objectReference: {fileID: 9100000, guid: f6b56b11fde095849b8574e36f4703d1, type: 2}
+    - target: {fileID: 114243888756026540, guid: 8cc81305d37e7f546ac8b6604aca1497,
+        type: 3}
+      propertyPath: sortingOrderOrigine
+      value: 2000
+      objectReference: {fileID: 0}
     - target: {fileID: 212015985568785374, guid: 8cc81305d37e7f546ac8b6604aca1497,
         type: 3}
       propertyPath: m_SortingOrder
@@ -41335,7 +41340,7 @@ PrefabInstance:
     - target: {fileID: 212160940615599348, guid: 8cc81305d37e7f546ac8b6604aca1497,
         type: 3}
       propertyPath: m_SortingOrder
-      value: 20
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 212177706590457650, guid: 8cc81305d37e7f546ac8b6604aca1497,
         type: 3}
