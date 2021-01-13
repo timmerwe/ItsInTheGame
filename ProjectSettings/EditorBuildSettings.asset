@@ -11,4 +11,7 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Tilemap2.unity
     guid: 9d52df46e4676704987649cdc25f3b82
+  - enabled: 1
+    path: Assets/gameover.unity
+    guid: 9a4b6582c15ae2c4d8fab71d29d51805
   m_configObjects: {}
