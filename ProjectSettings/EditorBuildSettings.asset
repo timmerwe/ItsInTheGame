@@ -26,4 +26,13 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Map2.unity
     guid: 336a5a137cab3df48bb48049b0bb59f1
+  - enabled: 1
+    path: Assets/Tilemap 5 (2).unity
+    guid: e070a57f60a4c29418c9a0b3128a7f80
+  - enabled: 1
+    path: Assets/Tilemap4 (2).unity
+    guid: 05953b9ce8b1f5e4cbc91c0c16a6fdda
+  - enabled: 1
+    path: Assets/Eindmap.unity
+    guid: d420d966951fea744a21e569c4e529fb
   m_configObjects: {}

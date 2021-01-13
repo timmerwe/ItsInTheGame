@@ -190,7 +190,7 @@ MonoBehaviour:
   m_GameObject: {fileID: 149711230}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: d39f849886b2375499949f382fcae596, type: 3}
+  m_Script: {fileID: 11500000, guid: c1a73d57d73211840a47492d1b708fbf, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
 --- !u!483693784 &149711234
@@ -13661,7 +13661,7 @@ MonoBehaviour:
   m_GameObject: {fileID: 1024775246}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 7ee0033c8a20f7d4f84b45ed3ec150b2, type: 3}
+  m_Script: {fileID: 11500000, guid: 5207dcafbe6d0a54aab15339ca82a7ba, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
 --- !u!483693784 &1024775250
@@ -14359,6 +14359,7 @@ GameObject:
   - component: {fileID: 1467139930}
   - component: {fileID: 1467139933}
   - component: {fileID: 1467139932}
+  - component: {fileID: 1467139934}
   - component: {fileID: 1467139931}
   m_Layer: 0
   m_Name: Door2
@@ -14492,6 +14493,18 @@ Tilemap:
     e31: 0
     e32: 0
     e33: 1
+--- !u!114 &1467139934
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1467139929}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8e1b75dee05d35a4cbfaf4f432677e64, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &1541077732
 GameObject:
   m_ObjectHideFlags: 0
@@ -14564,7 +14577,7 @@ TilemapRenderer:
   m_SortingLayer: 0
   m_SortingOrder: 3
   m_ChunkSize: {x: 32, y: 32, z: 32}
-  m_ChunkCullingBounds: {x: 2.06, y: 2.06, z: 0}
+  m_ChunkCullingBounds: {x: 1.6333334, y: 1.6333334, z: 0}
   m_MaxChunkCount: 16
   m_MaxFrameAge: 16
   m_SortOrder: 0
