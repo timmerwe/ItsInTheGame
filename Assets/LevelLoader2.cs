@@ -5,7 +5,8 @@ using UnityEngine.SceneManagement;
 
 public class LevelLoader2 : MonoBehaviour
 {
- 
+    
+   
     void OnTriggerEnter2D(Collider2D other)
 
     {

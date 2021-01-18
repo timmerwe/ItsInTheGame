@@ -19,7 +19,7 @@ public class hurtenemy : MonoBehaviour
 
     void OnCollisionEnter2D(Collision2D other)
     {
-        if (other.gameObject.name == "vijand")
+        if (other.gameObject.name == "enemy")
         {
             other.gameObject.GetComponent<healthenemy>().hurtenemy(damagetogive1);
         }

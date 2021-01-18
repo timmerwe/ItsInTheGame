@@ -11,14 +11,15 @@ public class aanval : MonoBehaviour{
     void Start()
     {
         rb = this.GetComponent<Rigidbody2D>();
+        rb.freezeRotation = true;
+
     }
 
     // Update is called once per frame
     void Update()
     {
         Vector3 direction = player.position - transform.position;
-        float hoek = Mathf.Atan2(direction.y, direction.x) * Mathf.Rad2Deg;
-        rb.rotation = hoek;
+        
         direction.Normalize();
         movement = direction;
     }   
