@@ -43778,7 +43778,7 @@ MonoBehaviour:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1043214588}
-  m_Enabled: 0
+  m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: d5831527f97f80c4ab42928c202b2d07, type: 3}
   m_Name: 
@@ -45498,7 +45498,11 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 25cb1a318271e8b44b70d19a96af2c2f, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+<<<<<<< Updated upstream
   damagetogive: 7
+=======
+  damagetogive: 0
+>>>>>>> Stashed changes
 --- !u!114 &1836953691
 MonoBehaviour:
   m_ObjectHideFlags: 0

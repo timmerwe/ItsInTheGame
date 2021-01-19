@@ -12,12 +12,16 @@
   </component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/../speler/movement.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/healthenemy.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/../speler/hurtenemy.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/../portalcode.cs" root0="SKIP_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
     <changedPaths>
       <option value="$PROJECT_DIR$/../speler/hurtenemy.cs" />
       <option value="$PROJECT_DIR$/aanval.cs" />
+      <option value="$PROJECT_DIR$/../portalcode.cs" />
+      <option value="$PROJECT_DIR$/healthenemy.cs" />
     </changedPaths>
   </component>
   <component name="ProjectId" id="1nEr3DN0ZEecXxAxFp6BuJFvPK3" />
@@ -43,6 +47,7 @@
       <workItem from="1610965905779" duration="460000" />
       <workItem from="1610966885473" duration="104000" />
       <workItem from="1610977663934" duration="3000" />
+      <workItem from="1611046716545" duration="870000" />
     </task>
     <servers />
   </component>
