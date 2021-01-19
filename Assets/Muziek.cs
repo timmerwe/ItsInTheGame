@@ -26,6 +26,7 @@ public class Muziek : MonoBehaviour
             }
 
             
+            
             Destroy(this.gameObject);
             return;
         }

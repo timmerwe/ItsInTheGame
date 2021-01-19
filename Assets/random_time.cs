@@ -4,19 +4,42 @@ using UnityEngine;
 
 public class random_time : StateMachineBehaviour
 {
-bool playAnim = true;
+readonly float minTime = 2;
+readonly float maxTime = 4;
+float xAxis;
+float yAxis;
+
+float timer = 0;
+
+string[] triggers = {"attack02", "attack"};
+
     // OnStateEnter is called when a transition starts and the state machine starts to evaluate this state
-   /* override public void OnStateEnter(Animator animator, AnimatorStateInfo stateInfo, int layerIndex)
+    override public void OnStateEnter(Animator animator, AnimatorStateInfo stateInfo, int layerIndex)
     {
-        if (playAnim)
-          StartCoroutine(WaitAnim()); //wait random seconds for animation
-    }*/
+		GameObject m = GameObject.Find("MonD_01");
+        xAxis = ((float)m.transform.position.x + Random.Range(-5f, 5f));
+        yAxis = ((float)m.transform.position.y + Random.Range(-5f, 5f));
+    }
 
     // OnStateUpdate is called on each Update frame between OnStateEnter and OnStateExit callbacks
-    //override public void OnStateUpdate(Animator animator, AnimatorStateInfo stateInfo, int layerIndex)
-    //{
-    //    
-    //}
+    override public void OnStateUpdate(Animator animator, AnimatorStateInfo stateInfo, int layerIndex)
+    {
+        if(timer <= 0){
+			timer = Random.Range(minTime, maxTime);
+			randomAnimation(animator);
+		} else {
+			timer -= Time.deltaTime;
+			GameObject m = GameObject.Find("MonD_01");
+ 			//m.transform.position = Vector3.Lerp(m.transform.position, new Vector3(xAxis, 0, yAxis), Time.deltaTime * 1);
+		}
+    }
+
+	void randomAnimation(Animator animator){
+		System.Random rnd = new System.Random();
+		int animationId = rnd.Next(triggers.Length);
+		string animationString = triggers[animationId];
+		animator.SetTrigger(animationString);
+	}
 
     // OnStateExit is called when a transition ends and the state machine finishes evaluating this state
     //override public void OnStateExit(Animator animator, AnimatorStateInfo stateInfo, int layerIndex)

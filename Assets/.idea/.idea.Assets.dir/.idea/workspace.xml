@@ -3,9 +3,11 @@
   <component name="ChangeListManager">
 <<<<<<< Updated upstream
     <list default="true" id="50ae11d3-49db-4606-9bc9-51d149fcf413" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/../Library/ScriptAssemblies/Assembly-CSharp.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../Library/ScriptAssemblies/Assembly-CSharp.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Library/ScriptAssemblies/Assembly-CSharp.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/../Library/ScriptAssemblies/Assembly-CSharp.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Library/ScriptAssemblies/BuiltinAssemblies.stamp" beforeDir="false" afterPath="$PROJECT_DIR$/../Library/ScriptAssemblies/BuiltinAssemblies.stamp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.Assets.dir/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Assets.dir/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Eindmap.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Eindmap.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Monster_D/md01/Ani/MonD_01.controller" beforeDir="false" afterPath="$PROJECT_DIR$/Monster_D/md01/Ani/MonD_01.controller" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Muziek.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Muziek.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Library/StateCache/Hierarchy/f25d36-mainStage.json" beforeDir="false" afterPath="$PROJECT_DIR$/../Library/StateCache/Hierarchy/f25d36-mainStage.json" afterDir="false" />
     </list>
 =======
     <list default="true" id="50ae11d3-49db-4606-9bc9-51d149fcf413" name="Default Changelist" comment="" />
@@ -19,14 +21,37 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="HighlightingSettingsPerFile">
+<<<<<<< HEAD
     <setting file="file://$PROJECT_DIR$/enemy/healthenemy.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/LevelLoader2.cs" root0="SKIP_HIGHLIGHTING" />
+=======
+    <setting file="file://$PROJECT_DIR$/MovementBoss.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Muziek.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/../../Movement/Assets/movement.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/speler/hurtboss.cs" root0="FORCE_HIGHLIGHTING" />
+>>>>>>> main
     <setting file="file://$PROJECT_DIR$/Free_Pack/Demo_GameResource/Script/CharacterController_2D.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/LevelLoader9.cs" root0="SKIP_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
+<<<<<<< HEAD
     <changedPaths>
       <option value="$PROJECT_DIR$/portalcode.cs" />
     </changedPaths>
+=======
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/movement.cs" />
+        <option value="$PROJECT_DIR$/MovementBoss.cs" />
+        <option value="$PROJECT_DIR$/randomizer.cs" />
+        <option value="$PROJECT_DIR$/random.cs" />
+        <option value="$PROJECT_DIR$/AnimationDetection.cs" />
+        <option value="$PROJECT_DIR$/attack_2.cs" />
+        <option value="$PROJECT_DIR$/random_time.cs" />
+        <option value="$PROJECT_DIR$/Muziek.cs" />
+      </list>
+    </option>
+>>>>>>> main
   </component>
   <component name="ProjectId" id="1lh6fVpT93ngrmRkx98NrLntJDY" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -63,11 +88,18 @@
       <workItem from="1610968916492" duration="1443000" />
       <workItem from="1610971520477" duration="755000" />
       <workItem from="1610976525934" duration="516000" />
+<<<<<<< HEAD
 <<<<<<< Updated upstream
       <workItem from="1611045236631" duration="390000" />
 =======
       <workItem from="1611046274706" duration="420000" />
 >>>>>>> Stashed changes
+=======
+      <workItem from="1611045236631" duration="417000" />
+      <workItem from="1611047566551" duration="1520000" />
+      <workItem from="1611049373066" duration="1703000" />
+      <workItem from="1611053376827" duration="672000" />
+>>>>>>> main
     </task>
     <servers />
   </component>

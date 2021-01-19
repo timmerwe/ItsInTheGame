@@ -14,7 +14,7 @@ public class LevelLoader9 : MonoBehaviour
         if (other.CompareTag("Player"))
         {
             SceneManager.LoadScene(9);
-           
+
         }
 
 

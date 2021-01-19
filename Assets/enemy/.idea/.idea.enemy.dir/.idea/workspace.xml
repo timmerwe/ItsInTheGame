@@ -1,7 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="fce5b045-b5de-47ef-8ac1-c2492779d15c" name="Default Changelist" comment="" />
+    <list default="true" id="fce5b045-b5de-47ef-8ac1-c2492779d15c" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../.idea/.idea.Assets.dir/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/.idea.Assets.dir/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.enemy.dir/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.enemy.dir/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Library/InspectorExpandedItems.asset" beforeDir="false" afterPath="$PROJECT_DIR$/../../Library/InspectorExpandedItems.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Library/StateCache/Hierarchy/f25d36-mainStage.json" beforeDir="false" afterPath="$PROJECT_DIR$/../../Library/StateCache/Hierarchy/f25d36-mainStage.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Temp/__Backupscenes/0.backup" beforeDir="false" afterPath="$PROJECT_DIR$/../../Temp/__Backupscenes/0.backup" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -11,6 +17,7 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
   </component>
   <component name="HighlightingSettingsPerFile">
+<<<<<<< HEAD
     <setting file="file://$PROJECT_DIR$/../speler/movement.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/healthenemy.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/../speler/hurtenemy.cs" root0="SKIP_HIGHLIGHTING" />
@@ -23,6 +30,12 @@
       <option value="$PROJECT_DIR$/../portalcode.cs" />
       <option value="$PROJECT_DIR$/healthenemy.cs" />
     </changedPaths>
+=======
+    <setting file="file://$PROJECT_DIR$/../speler/hurtenemy.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/aanval.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/../speler/movement.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/healthenemy.cs" root0="SKIP_HIGHLIGHTING" />
+>>>>>>> main
   </component>
   <component name="ProjectId" id="1nEr3DN0ZEecXxAxFp6BuJFvPK3" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -47,7 +60,11 @@
       <workItem from="1610965905779" duration="460000" />
       <workItem from="1610966885473" duration="104000" />
       <workItem from="1610977663934" duration="3000" />
+<<<<<<< HEAD
       <workItem from="1611046716545" duration="870000" />
+=======
+      <workItem from="1611046932694" duration="168000" />
+>>>>>>> main
     </task>
     <servers />
   </component>
