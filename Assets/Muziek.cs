@@ -1,6 +1,7 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.SceneManagement;
 
 public class Muziek : MonoBehaviour
 {
@@ -24,11 +25,26 @@ public class Muziek : MonoBehaviour
                 instance.GetComponent<AudioSource>().Play();
             }
 
+            
             Destroy(this.gameObject);
             return;
         }
-        instance = this;
-        GetComponent<AudioSource>().Play();
-        DontDestroyOnLoad(this.gameObject);
+
+        {
+            instance = this;
+            GetComponent<AudioSource>().Play();
+            DontDestroyOnLoad(this.gameObject);
+        }
+    }
+
+    void Update()
+    {
+        Scene currentScene = SceneManager.GetActiveScene();
+
+        if(currentScene.name == "Eindmap")
+        {
+            Destroy(this.gameObject);
+            return;
+        }
     }
 }
