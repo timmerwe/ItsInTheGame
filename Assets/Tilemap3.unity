@@ -43797,7 +43797,7 @@ BoxCollider2D:
   m_IsTrigger: 0
   m_UsedByEffector: 0
   m_UsedByComposite: 0
-  m_Offset: {x: -0.1676204, y: 1.1970026}
+  m_Offset: {x: -0.1676204, y: 1.3360023}
   m_SpriteTilingProperty:
     border: {x: 0, y: 0, z: 0, w: 0}
     pivot: {x: 0.5000001, y: 0.16726089}
@@ -43808,7 +43808,7 @@ BoxCollider2D:
     adaptiveTiling: 0
   m_AutoTiling: 0
   serializedVersion: 2
-  m_Size: {x: 0.24565408, y: 1.1068468}
+  m_Size: {x: 0.24565408, y: 1.3848462}
   m_EdgeRadius: 0
 --- !u!114 &1043214593
 MonoBehaviour:
@@ -44492,7 +44492,7 @@ MonoBehaviour:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1269036022}
-  m_Enabled: 0
+  m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 61b1bdd7887d2d04087d0083a4e2bd01, type: 3}
   m_Name: 
@@ -44506,13 +44506,13 @@ BoxCollider2D:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1269036022}
-  m_Enabled: 0
+  m_Enabled: 1
   m_Density: 1
   m_Material: {fileID: 0}
   m_IsTrigger: 0
   m_UsedByEffector: 0
   m_UsedByComposite: 0
-  m_Offset: {x: -0.21095467, y: 0.9755535}
+  m_Offset: {x: -0.21095467, y: 0.6673564}
   m_SpriteTilingProperty:
     border: {x: 0, y: 0, z: 0, w: 0}
     pivot: {x: 0.49795803, y: 0.27944148}
@@ -44523,7 +44523,7 @@ BoxCollider2D:
     adaptiveTiling: 0
   m_AutoTiling: 0
   serializedVersion: 2
-  m_Size: {x: 4.8097563, y: 8.194357}
+  m_Size: {x: 4.8097563, y: 8.810751}
   m_EdgeRadius: 0
 --- !u!1 &1420006987
 GameObject:
@@ -45467,7 +45467,7 @@ BoxCollider2D:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1836953688}
-  m_Enabled: 1
+  m_Enabled: 0
   m_Density: 1
   m_Material: {fileID: 0}
   m_IsTrigger: 0
@@ -45498,7 +45498,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 25cb1a318271e8b44b70d19a96af2c2f, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  damagetogive: 10
+  damagetogive: 7
 --- !u!114 &1836953691
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -45543,7 +45543,7 @@ BoxCollider2D:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1836953688}
-  m_Enabled: 1
+  m_Enabled: 0
   m_Density: 1
   m_Material: {fileID: 0}
   m_IsTrigger: 0
@@ -45569,7 +45569,7 @@ MonoBehaviour:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1836953688}
-  m_Enabled: 1
+  m_Enabled: 0
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 61b1bdd7887d2d04087d0083a4e2bd01, type: 3}
   m_Name: 
@@ -45583,7 +45583,7 @@ MonoBehaviour:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1836953688}
-  m_Enabled: 1
+  m_Enabled: 0
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 113c335a48baf2a498afa3dc7e1a84ec, type: 3}
   m_Name: 
