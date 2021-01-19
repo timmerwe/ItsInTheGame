@@ -3,10 +3,9 @@
   <component name="ChangeListManager">
     <list default="true" id="50ae11d3-49db-4606-9bc9-51d149fcf413" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/.idea.Assets.dir/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Assets.dir/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/random_time.cs" beforeDir="false" afterPath="$PROJECT_DIR$/random_time.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Library/ScriptAssemblies/Assembly-CSharp.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../Library/ScriptAssemblies/Assembly-CSharp.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Library/ScriptAssemblies/Assembly-CSharp.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/../Library/ScriptAssemblies/Assembly-CSharp.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Library/ScriptAssemblies/BuiltinAssemblies.stamp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Eindmap.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Eindmap.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Monster_D/md01/Ani/MonD_01.controller" beforeDir="false" afterPath="$PROJECT_DIR$/Monster_D/md01/Ani/MonD_01.controller" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Muziek.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Muziek.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Library/StateCache/Hierarchy/f25d36-mainStage.json" beforeDir="false" afterPath="$PROJECT_DIR$/../Library/StateCache/Hierarchy/f25d36-mainStage.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -18,9 +17,12 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/MovementBoss.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Muziek.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/../../Movement/Assets/movement.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/speler/hurtboss.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/speler/hurtboss.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Free_Pack/Demo_GameResource/Script/CharacterController_2D.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/LevelLoader9.cs" root0="SKIP_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -32,6 +34,7 @@
         <option value="$PROJECT_DIR$/AnimationDetection.cs" />
         <option value="$PROJECT_DIR$/attack_2.cs" />
         <option value="$PROJECT_DIR$/random_time.cs" />
+        <option value="$PROJECT_DIR$/Muziek.cs" />
       </list>
     </option>
   </component>
@@ -72,7 +75,8 @@
       <workItem from="1610976525934" duration="516000" />
       <workItem from="1611045236631" duration="417000" />
       <workItem from="1611047566551" duration="1520000" />
-      <workItem from="1611049373066" duration="1149000" />
+      <workItem from="1611049373066" duration="1703000" />
+      <workItem from="1611053376827" duration="672000" />
     </task>
     <servers />
   </component>
