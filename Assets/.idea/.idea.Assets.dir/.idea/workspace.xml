@@ -2,9 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="50ae11d3-49db-4606-9bc9-51d149fcf413" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/../Library/ScriptAssemblies/Assembly-CSharp.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../Library/ScriptAssemblies/Assembly-CSharp.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Library/ScriptAssemblies/Assembly-CSharp.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/../Library/ScriptAssemblies/Assembly-CSharp.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Library/ScriptAssemblies/BuiltinAssemblies.stamp" beforeDir="false" afterPath="$PROJECT_DIR$/../Library/ScriptAssemblies/BuiltinAssemblies.stamp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.Assets.dir/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Assets.dir/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/enemy/.idea/.idea.enemy.dir/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/enemy/.idea/.idea.enemy.dir/.idea/contentModel.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/enemy/.idea/.idea.enemy.dir/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/enemy/.idea/.idea.enemy.dir/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/enemy/.idea/.idea.enemy.dir/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/enemy/.idea/.idea.enemy.dir/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/random_time.cs" beforeDir="false" afterPath="$PROJECT_DIR$/random_time.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Library/InspectorExpandedItems.asset" beforeDir="false" afterPath="$PROJECT_DIR$/../Library/InspectorExpandedItems.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Library/StateCache/Hierarchy/f25d36-mainStage.json" beforeDir="false" afterPath="$PROJECT_DIR$/../Library/StateCache/Hierarchy/f25d36-mainStage.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Library/StateCache/SceneView/c6aa88-mainStage.json" beforeDir="false" afterPath="$PROJECT_DIR$/../Library/StateCache/SceneView/c6aa88-mainStage.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Temp/__Backupscenes/0.backup" beforeDir="false" afterPath="$PROJECT_DIR$/../Temp/__Backupscenes/0.backup" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -16,6 +22,7 @@
   </component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/../../Movement/Assets/movement.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/speler/hurtboss.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Free_Pack/Demo_GameResource/Script/CharacterController_2D.cs" root0="SKIP_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
@@ -66,7 +73,8 @@
       <workItem from="1610968916492" duration="1443000" />
       <workItem from="1610971520477" duration="755000" />
       <workItem from="1610976525934" duration="516000" />
-      <workItem from="1611045236631" duration="390000" />
+      <workItem from="1611045236631" duration="417000" />
+      <workItem from="1611047566551" duration="597000" />
     </task>
     <servers />
   </component>

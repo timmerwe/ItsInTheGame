@@ -4,7 +4,13 @@ using UnityEngine;
 
 public class random_time : StateMachineBehaviour
 {
-bool playAnim = true;
+readonly float minTime = 1;
+readonly float maxTime = 3;
+
+float timer = 0;
+
+string[] triggers = {"attack02", "attack"};
+
     // OnStateEnter is called when a transition starts and the state machine starts to evaluate this state
    /* override public void OnStateEnter(Animator animator, AnimatorStateInfo stateInfo, int layerIndex)
     {
@@ -13,10 +19,22 @@ bool playAnim = true;
     }*/
 
     // OnStateUpdate is called on each Update frame between OnStateEnter and OnStateExit callbacks
-    //override public void OnStateUpdate(Animator animator, AnimatorStateInfo stateInfo, int layerIndex)
-    //{
-    //    
-    //}
+    override public void OnStateUpdate(Animator animator, AnimatorStateInfo stateInfo, int layerIndex)
+    {
+        if(timer <= 0){
+			timer = Random.Range(minTime, maxTime);
+			randomAnimation(animator);
+		} else {
+			timer -= Time.deltaTime;
+		}
+    }
+
+	void randomAnimation(Animator animator){
+		System.Random rnd = new System.Random();
+		int animationId = rnd.Next(triggers.Length);
+		string animationString = triggers[animationId];
+		animator.SetTrigger(animationString);
+	}
 
     // OnStateExit is called when a transition ends and the state machine finishes evaluating this state
     //override public void OnStateExit(Animator animator, AnimatorStateInfo stateInfo, int layerIndex)
